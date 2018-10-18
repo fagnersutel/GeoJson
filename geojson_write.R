@@ -1,3 +1,4 @@
+library(geojsonio)
 # NOT RUN {
 # From a data.frame
 ## to points
